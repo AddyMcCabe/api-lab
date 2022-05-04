@@ -1,0 +1,31 @@
+SWAPI
+1.	 https://swapi.dev/api/people/4 or https://swapi.dev/api/people?search=darth+vader
+
+2.	https://swapi.dev/api/planets/2 or https://swapi.dev/api/planets?search=alderaan
+
+
+3.	https://swapi.dev/api/starships?search=millennium+falcon
+
+4.	https://swapi.dev/api/species/2 or https://swapi.dev/api/people/2
+
+5.	https://swapi.dev/api/people?search=obi-wan+kenobi or 
+
+
+
+social mountain
+1.	Post accepts params and a body, the text of the new post
+2.	An object
+3.	Delete https://practiceapi.devmountain.com/api ?555
+4.	Ll
+5.	https://practiceapi.devmountain.com/api/posts,
+ {
+    "text": "Addy"
+}
+6.	https://practiceapi.devmountain.com/api/posts?id=969,
+ {
+    "text": "Red"
+}
+7.	https://practiceapi.devmountain.com/api/posts/filter?text=blue
+8.	application/json; charset=utf-8
+9.	not using an id query or sending a body
+10.	it ignores it.
